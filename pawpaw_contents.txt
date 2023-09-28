@@ -1,0 +1,16 @@
+PawPaw CSS page:
+Contents:
+
+Home tab:
+Home - To the home Page
+Book Appointment (Nav bar and button) - To the Book Appointment Page
+Contact Us - To the Contact Us Page
+
+Book Appointment tab:
+Nav Bar same
+FIX MY PET PAWPAW! (button) - To the "aftersubmit" Page
+
+Contact Us tab:
+Nav Bar same
+Added a random google maps link to the address
+Added a mailto link to the emailid
